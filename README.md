@@ -3,7 +3,7 @@
 	<img src="./img/logo.svg" alt="logo" width=200 height=200>
 </center>
 <br/>
-A PyQt6 video player with a simple interface, supporting playback controls, volume adjustment, full-screen mode, and multiple video formats.
+A PyQt6 video player with a simple interface, supporting playback controls, volume adjustment, full-screen mode, multiple video formats and a recent files list.
 
 ## Requirements
 Before you execute the application, you need to install the dependencies.
